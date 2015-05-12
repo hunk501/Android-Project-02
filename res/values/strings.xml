@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stolen Alarm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Close</string>
+    <string name="title_activity_setup_alarm">SetupAlarm</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_cancel_alarm">CancelAlarm</string>
+	
+    <string name="lbl_activate_password">Activate Password</string>
+    <string name="lbl_diactivate_password">Diactivate Password</string>
+    
+    <string name="lbl_btn_savepassword">Save Password</string>
+    <string name="lbl_note">How to use it using SMS.?</string>
+    <string name="lbl_info_activate">Send: ac:your password</string>
+    <string name="lbl_info_diactivate">Send: dc:your password</string>
+    
+    <string name="lbl_expect_us">Expect us.!</string>
+</resources>
